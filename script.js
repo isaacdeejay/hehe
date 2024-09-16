@@ -1,0 +1,17 @@
+alert("hey babyyyyy :DD 🌸");
+alert("i know today hasn't been the easiest, and i just wanted to remind you that im always here lang for you okay :D");
+alert("take a deep breath for me okay baby? you are stronger than anything ure going through right now. 💕");
+alert("i wish i could be there to give a hug po :D and to tell u that everything will be alright :3 but until then, just know that i always am thinking of you okay? 🌷");
+alert("remember that its okay to have bad days and they're just little storms that will pass through heheheh. you are the sunshine that always comeback brighter :DD 🌞");
+alert("i believe in you, you always got this okay baby? no matter how tough it seems is you always get through it.");
+alert("and i'm always...");
+alert("alwaysss..");
+alert("ALLLLWAYSSSSS gonna be here for you, my pretty princess 💕");
+alert("sending you all my love and positive energy 💖");
+alert("don't forget, the universe always has a way of balancing things out :DD");
+alert("can't wait to see your smile again soon baby :D");
+alert("you will always...");
+alert("alwaysssssssss...");
+alert("ALLLLLLWAAAYYYYYSSSSSSS....");
+alert("gonna be the best part of my day :u hehehe ");
+alert("i give u kisses baby, mwa mwa MWAAA");
